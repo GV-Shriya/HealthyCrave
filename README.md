@@ -1,14 +1,14 @@
 # HealthyCrave
-HealthyCrave is a Food Nutrition Web Application
+This Repository Contains HealthyCrave, a Food Nutrition Web Application
 
-Built using Vanilla JS.
+=> Built using Vanilla JS.
 
-Helps users search for a recipe and get the calories, diet-label 
+=> Helps users search for a recipe and get the calories, diet-label 
 (low-carb or high-carb) and health label for key benefits/allergen
 info like peanut-free and also view the recipe. 
 
-Has responsive design. 
+=> Has responsive design. 
 
-Uses Edamam API.
+=> Uses Edamam API.
 
-The png image depicts how the website looks like
+=> The png image depicts how the website looks like
