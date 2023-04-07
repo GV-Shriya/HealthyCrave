@@ -10,3 +10,5 @@ info like peanut-free and also view the recipe.
 Has responsive design. 
 
 Uses Edamam API.
+
+The png image depicts how the website looks like
