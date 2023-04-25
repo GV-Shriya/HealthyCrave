@@ -12,3 +12,5 @@ info like peanut-free and also view the recipe.
 => Uses Edamam API.
 
 => The png image depicts how the website looks like
+
+![HealthyCrave Web App](https://user-images.githubusercontent.com/99253243/234229163-df8c543c-d422-4790-9c23-efe23f25aa08.png)
